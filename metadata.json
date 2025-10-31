@@ -1,0 +1,8 @@
+{
+  "name": "AI Receptionist",
+  "description": "An AI-powered receptionist that automatically detects a face, welcomes guests with a personalized greeting, and engages in real-time conversation using the device's camera and microphone.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
